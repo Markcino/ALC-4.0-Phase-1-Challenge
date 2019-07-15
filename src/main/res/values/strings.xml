@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_text">Welcome to ALC 4.0</string>
+    <string name="about_text">ABOUT ALC</string>
+    <string name="profile_text">MY PROFILE</string>
+    <string name="user_name">Mark Allen Gbalazeh</string>
+    <string name="notification_error_ssl_cert_invalid">Sssl Error</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="mark_allen_gbalazeh">Mark Allen Gbalazeh</string>
+    <string name="user_image">User Image</string>
+    <string name="track_name_android">Track Name: Android</string>
+    <string name="country_liberia">Country: Liberia</string>
+    <string name="email_markcinogbalazeh_gmail_com">Email: markcinogbalazeh@gmail.com</string>
+    <string name="phone_number">Phone Number: +231770356259</string>
+    <string name="slack_name_markgbalazeh">Slack Name: @markcino</string>
+    <string name="about_title">About ALC 4.0</string>
+    <string name="alc_phase_1">ALC 4 Phase 1</string>
+</resources>

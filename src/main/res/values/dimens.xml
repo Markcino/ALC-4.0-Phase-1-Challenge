@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ButtonFontStyle">25sp</dimen>
+    <dimen name="WelcomeFontStyle">35sp</dimen>
+    <dimen name="Toolbar">50sp</dimen>
+</resources>
